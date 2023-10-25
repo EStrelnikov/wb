@@ -724,4 +724,3 @@ orderBtn.addEventListener("click", (e) => {
     }
   }
 });
->>>>>>> 095e8ca (LO)
